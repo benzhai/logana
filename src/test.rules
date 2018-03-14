@@ -1,0 +1,2 @@
+#day=2018-03-06,url=^www\.toutiao\.com\/(?!.*(__utm\.gif)|(api)|(item)|(search_content)|(c\/user))
+day=2018-03-06,url=^www\.toutiao\.com\/((group)|(item)|(a[0-9])|(i[0-9]))

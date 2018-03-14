@@ -1,0 +1,6 @@
+#day=2018-03-06,url=^weibo\.com\/(?!(aj)|(u)),ref=^(?!.*(weibo\.com)|None)
+
+day=2018-03-06,url=^weibo\.com\/((p\/)|(ttarticle\/)|([0-9]*\/)),ref=^(?!.*(weibo\.com|sina|None))
+
+#day=2018-03-06,url=^weibo\.com\/(?!(aj)|(u)),ref=^(?!.*((weibo\.com)|(sina)|None))
+
